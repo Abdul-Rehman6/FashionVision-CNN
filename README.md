@@ -36,11 +36,11 @@ A Convolutional Neural Network (CNN) model built with PyTorch to classify images
 git clone https://github.com/yourusername/FashionVision-CNN.git
 cd FashionVision-CNN
 
-### 2. Install dependencies
-```bash
+2. Install dependencies
+
 pip install torch torchvision matplotlib
 
-### 3. Run the notebook
-```bash
+3. Run the notebook
+
 Open Final_CNN_FashionMNIST.ipynb in Jupyter Notebook or Colab and run all cells.
 
